@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1772695692829,
+    "description" : "S3 to Snowflake Iceberg",
+    "identifier" : "S3toSnowflakeIceberg",
+    "lastModifiedTimestamp" : 1772695692829,
+    "name" : "S3toSnowflakeIceberg",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
